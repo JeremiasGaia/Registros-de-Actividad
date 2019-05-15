@@ -1,0 +1,6 @@
+El sujeto debe subir escaleras (contar hasta tres, girar sobre su eje y contar hasta tres nuevamente) y  luego bajar escaleras (X escalones),(contar hasta tres, girar sobre su eje y contar hasta tres nuevamente)
+repetir este proceso tantas veces como sea posible, teniendo en cuenta que el sujeto debe terminar la prueba en la posición anatómica.
+******************************************************************************************************************************************************************
+A DIFERENCIA DE EUGENIO, FRANCO SUBIÓ Y BAJÓ ESCALERAS 2 VECES. es decir, empezó abajo y terminó abajo la prueba.
+
+******************************************************************************************************************************************************************
